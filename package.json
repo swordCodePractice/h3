@@ -1,6 +1,6 @@
 {
   "name": "@swordjs/h3",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "description": "Tiny JavaScript Server",
   "repository": "unjs/h3",
   "license": "MIT",
@@ -21,7 +21,7 @@
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "files": [
-    "dist"
+    "lib"
   ],
   "scripts": {
     "build": "unbuild",

@@ -5,4 +5,8 @@ dist
 coverage
 .profile
 .idea
+<<<<<<< HEAD
 .eslintcache
+=======
+lib
+>>>>>>> c232536 (🎈 perf: 修改产物文件夹)
