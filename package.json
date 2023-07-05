@@ -1,6 +1,6 @@
 {
   "name": "@swordjs/h3",
-  "version": "0.7.6",
+  "version": "1.7.1",
   "description": "Tiny JavaScript Server",
   "repository": "unjs/h3",
   "license": "MIT",
